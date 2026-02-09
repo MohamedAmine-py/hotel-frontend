@@ -314,38 +314,9 @@ CREATE TABLE reservations (
 
 ---
 
-## 👥 Auteurs
-
-**Projet de Fin de Semestre - GI3**
-
-- Développeur Frontend: [Votre Nom]
-- Développeur Backend: [Nom de votre camarade]
-- Établissement: [Nom de votre école]
-- Année: 2025-2026
-
----
 
 ## 📝 Licence
 
 Ce projet est réalisé dans un cadre académique.
 
 ---
-
-## 🙏 Remerciements
-
-- **Unsplash** - Photos de haute qualité
-- **Tailwind CSS** - Framework CSS
-- **React** - Bibliothèque JavaScript
-- **Vite** - Build tool
-
----
-
-## 📞 Support
-
-Pour toute question concernant le projet:
-- Email: contact@grandeur.ma
-- Téléphone: +212 522 123 456
-
----
-
-**Bon développement! 🚀**
