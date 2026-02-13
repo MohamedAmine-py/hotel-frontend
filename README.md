@@ -6,18 +6,7 @@ Une application web moderne et élégante pour la réservation de chambres d'hô
 
 ---
 
-## 📋 Table des Matières
 
-- [À Propos](#à-propos)
-- [Fonctionnalités](#fonctionnalités)
-- [Technologies Utilisées](#technologies-utilisées)
-- [Installation](#installation)
-- [Structure du Projet](#structure-du-projet)
-- [Pages Principales](#pages-principales)
-- [Chambres Disponibles](#chambres-disponibles)
-- [Connexion Backend](#connexion-backend)
-
----
 
 ## 🎯 À Propos
 
