@@ -16,7 +16,6 @@ Une application web moderne et élégante pour la réservation de chambres d'hô
 - [Pages Principales](#pages-principales)
 - [Chambres Disponibles](#chambres-disponibles)
 - [Connexion Backend](#connexion-backend)
-- [Auteurs](#auteurs)
 
 ---
 
